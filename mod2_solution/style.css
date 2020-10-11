@@ -21,14 +21,15 @@ p{
 	font-variant: uppercase;
 }
 .section{
-	background-color:orange;
+	background-color:pink
+;
 	border:2px solid black;
 	margin-top: 20px;
 	margin-right: 20px;
 	padding: 3px;
 	text-align: middle;
 	position: relative;
-	height: 250px;
+	height: 300px;
 
 }
 span{
